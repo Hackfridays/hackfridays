@@ -62,9 +62,12 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ### Status
 - Is there outstanding work? No
-- Is there a blog post written? No
+- Is there a blog post written?
+http://blog.cloudoki.com/going-native/
+http://blog.cloudoki.com/getting-started-with-restful-apis-using-the-flask-microframework-for-python/
 - Are you proud of the content of this post, or should it be amended? Yes
 - Can the code use a refactor and/or cleanup (does it follow best practice)? Yes
+Clean the code a little / htlm and css pretty basic / find a better way to do the same things / do a spell check
 - Would there be value in presenting this work to others (internal/external)? Yes
 
 ## Event Looping + ElasticSearch
