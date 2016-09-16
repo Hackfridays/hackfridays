@@ -56,7 +56,7 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 MuchVote was created as a way to collect opinions instead of asking for people to rise their hands counting them.
 
 The backend was made using Python-Flask and MySQL database.
-The frontend is an multiplatform mobile application (Android & iOS) made using ReactNative.
+The frontend is a multiplatform mobile application (Android & iOS) made using ReactNative.
 
 The application provides two ways of voting: using numerals (0-9) and using a set colors. It also allows for offline and online voting with a simple result page for the online part.
 
@@ -97,7 +97,7 @@ Elastic-event-js was made to be used to feed and query an ElasticSearch API with
 
 ## Theramin with Node+Arduino
 ### Description
-An NodeJS and Arduino implementation of an Theremin with a web page visualizer of the sound wave produced.
+A NodeJS and Arduino implementation of a Theremin with a web page visualizer of the sound wave produced.
 
 ### Information
 - **Team members:** Delio
@@ -108,7 +108,7 @@ An NodeJS and Arduino implementation of an Theremin with a web page visualizer o
 - Is there outstanding work? _No_
 - Is there a blog post written? _[Arduino + NodeJS = Theremin w/ Visualizer](http://blog.cloudoki.com/arduino-nodejs-theremin-w-visualizer/)_
 - Are you proud of the content of this post, or should it be amended? _Nothing to be amended but a video of the working solution must be added_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes it can be refactor_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes it can be refactored_
 - Would there be value in presenting this work to others (internal/external)? _Not sure only to show a cool thing working it's not really something that difficult or impressive to do_
 
 ## Image detection Cordova plugin
@@ -122,8 +122,8 @@ A Cordova plugin to detect when a certain trigger image is visible on the camera
 
 ### Status
 - Is there outstanding work? _Yes, refactor and code cleanup_
-- Is there a blog post written? _[Image Detection/Tracking in Mobile (iOS & Android)](http://blog.cloudoki.com/mobile-image-detection/)/no_
-- Are you proud of the content of this post, or should it be amended? _Nothing to amended_
+- Is there a blog post written? _[Image Detection/Tracking in Mobile (iOS & Android)](http://blog.cloudoki.com/mobile-image-detection/)_
+- Are you proud of the content of this post, or should it be amended? _Nothing to amend_
 - Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes refactor_
 - Would there be value in presenting this work to others (internal/external)? _Yes_
 
