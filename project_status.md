@@ -1,3 +1,8 @@
+# Internal Hack Friday projects
+On Fridays, we work on Hack Friday projects. This markdown is a first effort in collating past projects, as well as projects that are currently in progress or are being thought about.
+
+In time, the aim is to integrate all the hack projects fully with GitHub, with this markdown providing a quick summary of links, requirements, team compositions and outstanding work, amongst other things.
+
 ## MuchVote
 ### Original team member(s)
 - Catia, Delio, Maria, Edgar
@@ -96,4 +101,4 @@
 - ??
 
 ### New team
-- ?? 
+- ??
