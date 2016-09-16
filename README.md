@@ -72,7 +72,7 @@ The application provides two ways of voting: using numerals (0-9) and using a se
 ### Status
 - Is there outstanding work? _No, but the application can be improved with a webversion/in app version to see and remove old voting sessions_
 - Is there a blog post written? _[Going native with React Native](http://blog.cloudoki.com/going-native/), [Getting started with RESTful APIs using the Flask microframework for Python](http://blog.cloudoki.com/getting-started-with-restful-apis-using-the-flask-microframework-for-python/)_
-- Are you proud of the content of this post, or should it be amended? _No need to amended_
+- Are you proud of the content of this post, or should it be amended? _Yes, No need to amended_
 - Can the code use a refactor and/or cleanup (does it follow best practice)? _The code could use refactor since best practice + hacking don't usually result in a good blend_
 - Would there be value in presenting this work to others (internal/external)? _Yes_
 
@@ -155,10 +155,10 @@ This app is designed to centralize the process of requiring tech savvy resources
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? _not sure_
-- Is there a blog post written? _no_
-- Are you proud of the content of this post, or should it be amended? _not sure_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _not sure_
+- Is there outstanding work? _Yes_
+- Is there a blog post written? _No_
+- Are you proud of the content of this post, or should it be amended? _Yes_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes_
 - Would there be value in presenting this work to others (internal/external)? _Yes_
 
 ## Hacktool
