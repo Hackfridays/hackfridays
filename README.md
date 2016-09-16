@@ -53,76 +53,81 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## MuchVote
 ### Description
+MuchVote was created as a way to collect opinions instead of asking for people to rise their hands counting them.
 
-The main goal was to learn react native
+The backend was made using Python-Flask and MySQL database.
+The frontend is a multiplatform mobile application (Android & iOS) made using ReactNative.
+
+The application provides two ways of voting: using numerals (0-9) and using a set colors. It also allows for offline and online voting with a simple result page for the online part.
 
 ### Information
 - **Team members:** Cátia, Délio, Maria, Edgar
 - **GitHub repo URL:**
-- **Web URL (if applicable):**
+ - [MuchVote API](https://github.com/Cloudoki/MuchVote-API)
+ - [MuchVote APP](https://github.com/Cloudoki/MuchVote)
+ - [MuchVote Website](https://github.com/Cloudoki/MuchVote-site)
+- **Web URL (if applicable):** [Much](http://muchvote.cloudoki.com/)
 
-### Status
-- Is there outstanding work? Yes.
-
-There is a blog post but could be a nice idea to start searching for a react meetup to participate with this project
-
-- Is there a blog post written? http://blog.cloudoki.com/going-native/
-- Are you proud of the content of this post, or should it be amended? Yes, definitely
-- Can the code use a refactor and/or cleanup (does it follow best practice)? No, its on as it is
-- Would there be value in presenting this work to others (internal/external)? yes, for a frontend meetup
 
 ## Event Looping + ElasticSearch
 ### Description
+With Elastic-event-js, you can catch web browser events, send them to an ElasticSearch instance for analytics purposes.
+In this project the events from mouse movements and clicks are represented in a canvas environment in realtime.
 
-Catches web browser events, send them to an elastic search instance for analytics purposes.
-In this project the events from mouse movements and clicks are represented in a canvas environment in realtime
+### Status
+- Is there outstanding work? _No, but the application can be improved with a webversion/in app version to see and remove old voting sessions. It would also be good to look for a meetup group (frontend/React) to participate and present this project._
+- Is there a blog post written? _[Going native with React Native](http://blog.cloudoki.com/going-native/), [Getting started with RESTful APIs using the Flask microframework for Python](http://blog.cloudoki.com/getting-started-with-restful-apis-using-the-flask-microframework-for-python/)_
+- Are you proud of the content of this post, or should it be amended? _Yes, No need to amended_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _The code could use refactor since best practice + hacking don't usually result in a good blend_
+- Would there be value in presenting this work to others (internal/external)? _Yes, in a frontend meetup_
 
 ### Information
 - **Team members:** Edgar
 - **GitHub repo URL:**
-- **Web URL (if applicable):**
+ - [Elastic Event JS](https://github.com/Cloudoki/elastic-event-js)
+ - [Docs](http://cloudoki.github.io/elastic-event-js/docs/)
+- **Web URL (if applicable):** [Blog Post](http://blog.cloudoki.com/event-logging-elasticsearch/)
 
 ### Status
-- Is there outstanding work? Don't now!
-- Is there a blog post written? http://blog.cloudoki.com/event-logging-elasticsearch/
-- Are you proud of the content of this post, or should it be amended? Yes
-- Can the code use a refactor and/or cleanup (does it follow best practice)? Yes
-- Would there be value in presenting this work to others (internal/external)? Yes
+- Is there outstanding work? _Not sure, most likely no_
+- Is there a blog post written? _[Event logging with ElasticSearch
+](http://blog.cloudoki.com/event-logging-elasticsearch/)_
+- Are you proud of the content of this post, or should it be amended? _Yes_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes_
+- Would there be value in presenting this work to others (internal/external)? _Yes_
 
-## Theramin with Node+Arduino
+## Theremin with Node+Arduino
+
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+A NodeJS and Arduino implementation of a Theremin with a web page visualizer of the sound wave produced.
 
 ### Information
 - **Team members:** Delio
-- **GitHub repo URL:**
-- **Web URL (if applicable):**
+- **GitHub repo URL:** [Arduino + NodeJS = Theremin w/ Visualizer](https://github.com/Cloudoki/donder-theremin)
+- **Web URL (if applicable):** [Blog Post](http://blog.cloudoki.com/arduino-nodejs-theremin-w-visualizer/)
 
 ### Status
-- Is there outstanding work?
-
-Yes a more descriptive blog post. The current one is more code and less text
-
-- Is there a blog post written? http://blog.cloudoki.com/arduino-nodejs-theremin-w-visualizer/
-- Are you proud of the content of this post, or should it be amended? Yes
-- Can the code use a refactor and/or cleanup (does it follow best practice)? Yes, need improvement
-- Would there be value in presenting this work to others (internal/external)? Yes (IoT meetup)
+- Is there outstanding work? _Yes a more descriptive blog post. The current one is more code and less text_
+- Is there a blog post written? _[Arduino + NodeJS = Theremin w/ Visualizer](http://blog.cloudoki.com/arduino-nodejs-theremin-w-visualizer/)_
+- Are you proud of the content of this post, or should it be amended? _Yes. Nothing to be amended but a video of the working solution must be added_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes it can be refactored_
+- Would there be value in presenting this work to others (internal/external)? _Yes. An IoT meetup for example. However, its only purpose was to show a cool thing working. It's not that difficult or impressive to do_
 
 ## Image detection Cordova plugin
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+A Cordova plugin to detect when a certain trigger image is visible on the camera feed. For Android and iOS.
 
 ### Information
 - **Team members:** Delio
-- **GitHub repo URL:**
-- **Web URL (if applicable):**
+- **GitHub repo URL:** [Image Detection Plugin (Android & iOS)](https://github.com/Cloudoki/ImageDetectionCordovaPlugin)
+- **Web URL (if applicable):** [Blog Post](http://blog.cloudoki.com/mobile-image-detection/)
 
 ### Status
-- Is there outstanding work? Yes (tests)
-- Is there a blog post written? http://blog.cloudoki.com/mobile-image-detection/
-- Are you proud of the content of this post, or should it be amended? Yes
-- Can the code use a refactor and/or cleanup (does it follow best practice)? No
-- Would there be value in presenting this work to others (internal/external)? Yes (front end meetup)
+- Is there outstanding work? _Yes, tests, refactor and code cleanup_
+- Is there a blog post written? _[Image Detection/Tracking in Mobile (iOS & Android)](http://blog.cloudoki.com/mobile-image-detection/)_
+- Are you proud of the content of this post, or should it be amended? _Yes. Nothing to amend_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes refactor_
+- Would there be value in presenting this work to others (internal/external)? _Yes, on a frontend meetup_
 
 ## RethinkDB and Node basics
 ### Description
@@ -145,20 +150,21 @@ The main objective is reached, the things that need to be improved:
 
 ## HR App
 ### Description
-
-Its a frontend app to manage job applications, don't know much, its the Nuno's thing
+This app is designed to centralize the process of requiring tech savvy resources from external consulting companies and other parties.
 
 ### Information
-- **Team members:** Nuno, Maria
+- **Team members:** Nuno, Maria, Tiago
 - **GitHub repo URL:**
+ - [HR APP](https://github.com/Cloudoki/hr-app)
+ - [HR API](https://github.com/Cloudoki/hr-app-api)
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? Yes
-- Is there a blog post written? No,
-- Are you proud of the content of this post, or should it be amended? no
-- Can the code use a refactor and/or cleanup (does it follow best practice)? no
-- Would there be value in presenting this work to others (internal/external)? no
+- Is there outstanding work? _Yes_
+- Is there a blog post written? _No_
+- Are you proud of the content of this post, or should it be amended? _Yes_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes_
+- Would there be value in presenting this work to others (internal/external)? _Yes_
 
 ## Hacktool
 ### Description
@@ -174,20 +180,21 @@ And everything we could put in a file useful to hackathon organization. Hannes w
 
 ### Information
 - **Team members:** Ricardo, Cátia, Tomas, Rui
-- **GitHub repo URL:** https://github.com/Cloudoki/hacktool-backend https://github.com/Cloudoki/hacktool-backoffice
+- **GitHub repo URL:**
+ - [Hacktool Backend](https://github.com/Cloudoki/hacktool-backend)
+ - [HackTool Frontend](https://github.com/Cloudoki/hacktool-backoffice)
 - **Web URL (if applicable):** http://hacktool.hackfridays.com/ (demo version)
 
 ### Status
-- Is there outstanding work? Yes, could be a github blogger tool to external users
-- Is there a blog post written? no
-- Are you proud of the content of this post, or should it be amended? no
-- Can the code use a refactor and/or cleanup (does it follow best practice)? yes
-- Would there be value in presenting this work to others (internal/external)? yes, for a generic web development meetup
+- Is there outstanding work? _Yes, could be a Github Blogger tool to external users_
+- Is there a blog post written? _No_
+- Are you proud of the content of this post, or should it be amended? _Yes, no amendments needed._
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes_
+- Would there be value in presenting this work to others (internal/external)? _Yes, for a general web development meetup_
 
 ## Wolfbot (in progress)
 ### Description
-
-First step to the Dudebot project
+Ask wolfbot and it will answer you using wolfram-alpha. This was made to be used with Dudebot.
 
 ### Information
 - **Team members:** Tiago, Edgar
@@ -195,42 +202,43 @@ First step to the Dudebot project
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? no
-- Is there a blog post written? no
-- Are you proud of the content of this post, or should it be amended? no
-- Can the code use a refactor and/or cleanup (does it follow best practice)? no
-- Would there be value in presenting this work to others (internal/external)? no
+- Is there outstanding work? _Yes_
+- Is there a blog post written? _No_
+- Are you proud of the content of this post, or should it be amended? _N/A_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _N/A_
+- Would there be value in presenting this work to others (internal/external)? _Yes_
 
 ## Dudebot (in progress)
 ### Description
-
-Text to speech with Slack and a raspberry pi
+This bot will answer the wolfbot question with voice. This project uses Slack input, Text To Speech technology and Raspberry Pi for audio playback.
 
 ### Information
 - **Team members:** Tiago, Edgar
-- **GitHub repo URL:**
+- **GitHub repo URL:** [Dudebot](https://github.com/Cloudoki/dude-bot)
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? yes, its not finished yet
-- Is there a blog post written? no
-- Are you proud of the content of this post, or should it be amended? no
-- Can the code use a refactor and/or cleanup (does it follow best practice)? yes
-- Would there be value in presenting this work to others (internal/external)? yes, in a IoT meetup
+- Is there outstanding work? _Yes, it is not finished yet_
+- Is there a blog post written? _No_
+- Are you proud of the content of this post, or should it be amended? _N/A_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _N/A_
+- Would there be value in presenting this work to others (internal/external)? _Yes, on an IoT meetup_
 
 ## My Meme (in progress)
 ### Description
-
-Meme generator integrated in Slack
+Create your own 9Gag like site using nodeJS, featuring a Slack integration.
 
 ### Information
-- **Team members:** Ricardo, Edgar
+- **Team members:** Ricardo, Edgar, Délio, Erik
 - **GitHub repo URL:**
+ - [minegag Frontend](https://github.com/Cloudoki/mine_gag)
+ - [minegag Backend](https://github.com/Cloudoki/minegag)
+ - [Slack integration](https://github.com/Cloudoki/minegag-slack)
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? yes, its not finished yet
-- Is there a blog post written? no
-- Are you proud of the content of this post, or should it be amended? no
-- Can the code use a refactor and/or cleanup (does it follow best practice)? yes
-- Would there be value in presenting this work to others (internal/external)? yes, in a IoT meetup
+- Is there outstanding work? _Yes, finish the development_
+- Is there a blog post written? _No_
+- Are you proud of the content of this post, or should it be amended? _N/A_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _N/A_
+- Would there be value in presenting this work to others (internal/external)? _Yes, on an IoT meetup_
