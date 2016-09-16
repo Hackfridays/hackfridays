@@ -3,6 +3,54 @@ On Fridays, we work on Hack Friday projects. This markdown is a first effort in 
 
 In time, the aim is to integrate all the hack projects fully with GitHub, with this markdown providing a quick summary of links, requirements, team compositions and outstanding work, amongst other things.
 
+## Table of contents
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Internal Hack Friday projects](#internal-hack-friday-projects)
+	- [Table of contents](#table-of-contents)
+	- [MuchVote](#muchvote)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [Event Looping + ElasticSearch](#event-looping-elasticsearch)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [Theramin with Node+Arduino](#theramin-with-nodearduino)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [Image detection Cordova plugin](#image-detection-cordova-plugin)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [RethinkDB and Node basics](#rethinkdb-and-node-basics)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [HR App](#hr-app)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [Hacktool](#hacktool)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [Wolfbot (in progress)](#wolfbot-in-progress)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [Dudebot (in progress)](#dudebot-in-progress)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+	- [My Meme (in progress)](#my-meme-in-progress)
+		- [Description](#description)
+		- [Information](#information)
+		- [Status](#status)
+
+<!-- /TOC -->
+
 ## MuchVote
 ### Description
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
