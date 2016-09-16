@@ -71,7 +71,7 @@ The application provides two ways of voting: using numerals (0-9) and using a se
 
 ## Event Looping + ElasticSearch
 ### Description
-With Elastic-event-js, you can catch web browser events, send them to an ElasticSearch instance for analytics purposes.
+With Elastic-event-js, you can catch web browser events, send them to an ElasticSearch API instance for analytics purposes.
 In this project the events from mouse movements and clicks are represented in a canvas environment in realtime.
 
 ### Status
@@ -79,7 +79,7 @@ In this project the events from mouse movements and clicks are represented in a 
 - Is there a blog post written? _[Going native with React Native](http://blog.cloudoki.com/going-native/), [Getting started with RESTful APIs using the Flask microframework for Python](http://blog.cloudoki.com/getting-started-with-restful-apis-using-the-flask-microframework-for-python/)_
 - Are you proud of the content of this post, or should it be amended? _Yes, No need to amended_
 - Can the code use a refactor and/or cleanup (does it follow best practice)? _The code could use refactor since best practice + hacking don't usually result in a good blend_
-- Would there be value in presenting this work to others (internal/external)? _Yes, in a frontend meetup_
+- Would there be value in presenting this work to others (internal/external)? _Yes, in a frontend meetup, but there are a lot of similar apps._
 
 ### Information
 - **Team members:** Edgar
@@ -186,11 +186,11 @@ And everything we could put in a file useful to hackathon organization. Hannes w
 - **Web URL (if applicable):** http://hacktool.hackfridays.com/ (demo version)
 
 ### Status
-- Is there outstanding work? _Yes, could be a Github Blogger tool to external users_
+- Is there outstanding work? _Yes, could be a Github Blogger tool to external users. Also, more features could be implemented._
 - Is there a blog post written? _No_
 - Are you proud of the content of this post, or should it be amended? _Yes, no amendments needed._
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes_
-- Would there be value in presenting this work to others (internal/external)? _Yes, for a general web development meetup_
+- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes, there are a lot of code improvements that could be done on this project_
+- Would there be value in presenting this work to others (internal/external)? _Yes, for a general web development meetup._
 
 ## Wolfbot (in progress)
 ### Description
