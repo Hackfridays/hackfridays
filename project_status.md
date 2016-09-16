@@ -8,9 +8,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Catia, Delio, Maria, Edgar
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Catia, Delio, Maria, Edgar
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -24,9 +24,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Edgar
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Edgar
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -40,9 +40,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Delio
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Delio
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -56,9 +56,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Delio
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Delio
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -72,9 +72,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Ricardo, Simon
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Ricardo, Simon
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -88,9 +88,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Nuno, Maria
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Nuno, Maria
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -104,9 +104,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Ricardo, Catia, Tomas, Rui
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Ricardo, Catia, Tomas, Rui
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -120,9 +120,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Tiago, Edgar
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Tiago, Edgar
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -136,9 +136,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Tiago, Edgar
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Tiago, Edgar
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
@@ -152,9 +152,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 @TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
 
 ### Information
-- *Team members:* Ricardo, Edgar
-- *GitHub repo URL:*
-- *Web URL (if applicable):*
+- **Team members:** Ricardo, Edgar
+- **GitHub repo URL:**
+- **Web URL (if applicable):**
 
 ### Status
 - Is there outstanding work? _Yes (Please specify)/no_
