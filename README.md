@@ -57,7 +57,7 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ### Information
 - **Team members:** Catia, Delio, Maria, Edgar
-- **GitHub repo URL:**
+- **GitHub repo URL:** https://github.com/Cloudoki/MuchVote-site
 - **Web URL (if applicable):** http://muchvote.cloudoki.com/
 
 ### Status
