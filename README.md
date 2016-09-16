@@ -61,11 +61,11 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? _Yes (Please specify)/no_
-- Is there a blog post written? _Link here/no_
-- Are you proud of the content of this post, or should it be amended? _Yes/no_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes/no_
-- Would there be value in presenting this work to others (internal/external)? _Yes/no_
+- Is there outstanding work? No
+- Is there a blog post written? [Getting started with RESTful APIs using the Flask microframework for Python](http://blog.cloudoki.com/getting-started-with-restful-apis-using-the-flask-microframework-for-python/)
+- Are you proud of the content of this post, or should it be amended? Yes, I'm proud.
+- Can the code use a refactor and/or cleanup (does it follow best practice)? Yes, the backend could have some code improvements
+- Would there be value in presenting this work to others (internal/external)? Maybe, it will depend on other interests since there is a lot of similar apps
 
 ## Event Looping + ElasticSearch
 ### Description
@@ -157,11 +157,11 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? _Yes (Please specify)/no_
-- Is there a blog post written? _Link here/no_
-- Are you proud of the content of this post, or should it be amended? _Yes/no_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes/no_
-- Would there be value in presenting this work to others (internal/external)? _Yes/no_
+- Is there outstanding work? Not at the moment due to the fact that most of the features are not implement
+- Is there a blog post written? No
+- Are you proud of the content of this post, or should it be amended? Yes, I'm proud
+- Can the code use a refactor and/or cleanup (does it follow best practice)? Yes, there are a lot of code improvements that could be done on this project.
+- Would there be value in presenting this work to others (internal/external)? Yes
 
 ## Wolfbot (in progress)
 ### Description
