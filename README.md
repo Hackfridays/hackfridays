@@ -53,15 +53,19 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## MuchVote
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+The main goal was to learn react native
 
 ### Information
-- **Team members:** Catia, Delio, Maria, Edgar
+- **Team members:** Cátia, Délio, Maria, Edgar
 - **GitHub repo URL:**
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? Yes (probably a presentation)
+- Is there outstanding work? Yes.
+
+There is a blog post but could be a nice idea to start searching for a react meetup to participate with this project
+
 - Is there a blog post written? http://blog.cloudoki.com/going-native/
 - Are you proud of the content of this post, or should it be amended? Yes, definitely
 - Can the code use a refactor and/or cleanup (does it follow best practice)? No, its on as it is
@@ -69,7 +73,9 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## Event Looping + ElasticSearch
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+Catches web browser events, send them to an elastic search instance for analytics purposes.
+In this project the events from mouse movements and clicks are represented in a canvas environment in realtime
 
 ### Information
 - **Team members:** Edgar
@@ -93,7 +99,10 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? Yes
+- Is there outstanding work?
+
+Yes a more descriptive blog post. The current one is more code and less text
+
 - Is there a blog post written? http://blog.cloudoki.com/arduino-nodejs-theremin-w-visualizer/
 - Are you proud of the content of this post, or should it be amended? Yes
 - Can the code use a refactor and/or cleanup (does it follow best practice)? Yes, need improvement
@@ -117,7 +126,10 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## RethinkDB and Node basics
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+The project started with a blog post about basic usage of RethinkDB with Node.js.
+The main objective is reached, the things that need to be improved:
+
 
 ### Information
 - **Team members:** Ricardo, Simon
@@ -133,7 +145,8 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## HR App
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+Its a frontend app to manage job applications, don't know much, its the Nuno's thing
 
 ### Information
 - **Team members:** Nuno, Maria
@@ -141,20 +154,28 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? _Yes (Please specify)/no_
-- Is there a blog post written? _Link here/no_
-- Are you proud of the content of this post, or should it be amended? _Yes/no_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes/no_
-- Would there be value in presenting this work to others (internal/external)? _Yes/no_
+- Is there outstanding work? Yes
+- Is there a blog post written? No,
+- Are you proud of the content of this post, or should it be amended? no
+- Can the code use a refactor and/or cleanup (does it follow best practice)? no
+- Would there be value in presenting this work to others (internal/external)? no
 
 ## Hacktool
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+Hacktool is a new face to GitHub in order to take advantage of its features to have:
+
+Login and authorization for free by the GitHub
+Users in a hackathon (users in a repo in GitHub)
+Articles/ blog posts (a file in the repo)
+Event schedule (a file as the article)
+
+And everything we could put in a file useful to hackathon organization. Hannes will be our first "client"
 
 ### Information
-- **Team members:** Ricardo, Catia, Tomas, Rui
-- **GitHub repo URL:**
-- **Web URL (if applicable):**
+- **Team members:** Ricardo, Cátia, Tomas, Rui
+- **GitHub repo URL:** https://github.com/Cloudoki/hacktool-backend https://github.com/Cloudoki/hacktool-backoffice
+- **Web URL (if applicable):** http://hacktool.hackfridays.com/ (demo version)
 
 ### Status
 - Is there outstanding work? Yes, could be a github blogger tool to external users
@@ -165,7 +186,8 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## Wolfbot (in progress)
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+First step to the Dudebot project
 
 ### Information
 - **Team members:** Tiago, Edgar
@@ -181,7 +203,8 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## Dudebot (in progress)
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+Text to speech with Slack and a raspberry pi
 
 ### Information
 - **Team members:** Tiago, Edgar
@@ -197,7 +220,8 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 
 ## My Meme (in progress)
 ### Description
-@TODO: Provide brief description of this project, covering technologies used, goals (to be) achieved, what issue(s) it (will) solve(s).
+
+Meme generator integrated in Slack
 
 ### Information
 - **Team members:** Ricardo, Edgar
