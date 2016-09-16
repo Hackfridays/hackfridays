@@ -58,14 +58,14 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 ### Information
 - **Team members:** Catia, Delio, Maria, Edgar
 - **GitHub repo URL:**
-- **Web URL (if applicable):**
+- **Web URL (if applicable):** http://muchvote.cloudoki.com/
 
 ### Status
-- Is there outstanding work? _Yes (Please specify)/no_
-- Is there a blog post written? _Link here/no_
-- Are you proud of the content of this post, or should it be amended? _Yes/no_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes/no_
-- Would there be value in presenting this work to others (internal/external)? _Yes/no_
+- Is there outstanding work? No
+- Is there a blog post written? No
+- Are you proud of the content of this post, or should it be amended? Yes
+- Can the code use a refactor and/or cleanup (does it follow best practice)? Yes
+- Would there be value in presenting this work to others (internal/external)? Yes
 
 ## Event Looping + ElasticSearch
 ### Description
@@ -141,11 +141,11 @@ In time, the aim is to integrate all the hack projects fully with GitHub, with t
 - **Web URL (if applicable):**
 
 ### Status
-- Is there outstanding work? _Yes (Please specify)/no_
-- Is there a blog post written? _Link here/no_
-- Are you proud of the content of this post, or should it be amended? _Yes/no_
-- Can the code use a refactor and/or cleanup (does it follow best practice)? _Yes/no_
-- Would there be value in presenting this work to others (internal/external)? _Yes/no_
+- Is there outstanding work? Yes
+- Is there a blog post written? No
+- Are you proud of the content of this post, or should it be amended? Yes
+- Can the code use a refactor and/or cleanup (does it follow best practice)? Yes
+- Would there be value in presenting this work to others (internal/external)? Yes
 
 ## Hacktool
 ### Description
